@@ -5,7 +5,7 @@
     "image": "profilepic.jpg",
     "github": "https://github.com/rafahfj",
     "project": "https://github.com/rafahfj",
-    "bio": "Ini adalah section biografi aku",
+    "bio": "I have an educational background in computer engineering, but I have been studying web development since 2022. In my journey of learning web development, I was interested in coding for user interfaces, so I am proficient in HTML, CSS, and JS. for the framework, I prefer to use React JS. all the results of my work can be seen in the portfolio. For clients who are interested in my work in front end development, I always accept various jobs that suit my job description",
     "contactmessage": "Hello, here I am",
     "email": "rafahfajrijuwaeni@gmail.com",
     "phone": "859-0004-5534",
@@ -52,14 +52,14 @@
         "school": "SMK AL AMIN",
         "degree": "Computer and Network Engineering",
         "graduated": "May 2025",
-        "description": "I am joining computer olympiad"
+        "description": "I am an outstanding student"
       }
     ],
     "work": [
       {
         "company": "Emerald Computer",
         "title": "Insternship Computer Engineer",
-        "years": "Juli 2023 - December 2023",
+        "years": "July 2023 - December 2023",
         "description": "Build and maintenance customer Personal Computer"
       }
     ],
@@ -103,8 +103,8 @@
       {
         "title": "Resume Website",
         "category": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
+        "image": "03.png",
+        "url": "https://myresume-reactapp.vercel.app/"
       }
     ]
   }
