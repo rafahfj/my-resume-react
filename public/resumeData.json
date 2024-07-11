@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Rafah Fajri Juwaeni",
+    "description": "Front End Developer",
+    "image": "profilepic.jpg",
+    "github": "https://github.com/rafahfj",
+    "project": "https://github.com/rafahfj",
+    "bio": "Ini adalah section biografi aku",
+    "contactmessage": "Hello, here I am",
+    "email": "rafahfajrijuwaeni@gmail.com",
+    "phone": "859-0004-5534",
+    "address": {
+      "street": "Jl Thamrin no. 1",
+      "city": "Bogor Regency",
+      "state": "West Java",
+      "zip": "16810"
+    },
+    "website": "https://github.com/rafahfj",
+    "resumedownload": "https://github.com/rafahfj",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/rafahfajrijuwaeni",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rafahfj/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/raf_ahfj",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mutiarahmatun",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "SMK AL AMIN",
+        "degree": "Computer and Network Engineering",
+        "graduated": "May 2025",
+        "description": "I am joining computer olympiad"
+      }
+    ],
+    "work": [
+      {
+        "company": "Emerald Computer",
+        "title": "Insternship Computer Engineer",
+        "years": "Juli 2023 - December 2023",
+        "description": "Build and maintenance customer Personal Computer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Javascript",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "50%"
+      },
+      {
+        "name": "Tailwind",
+        "level": "25%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Shcool Page",
+        "category": "Simple Web with no framework",
+        "image": "01.png",
+        "url": "https://smkalaminpamijahan.vercel.app"
+      },
+      {
+        "title": "Simple Calculator",
+        "category": "This is a calculator website with standard web build",
+        "image": "02.png",
+        "url": "https://rafahfj.github.io/simple-calculator/"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
